@@ -1,7 +1,7 @@
 <p align="center">
-  #Hi 👋, I'm Gunjon
-  ##A young-dumb 🤓 Mobile App developer from Bangladesh 
   <ul>
+    #Hi 👋, I'm Gunjon
+    #A young-dumb 🤓 Mobile App developer from Bangladesh 
     <li>👀 I’m interested in Mobile Application Development.</li>
     <li>🌱 I’m currently Working with Flutter.</li>
     <li>🌱 I’m currently learning more about Dart</li>
