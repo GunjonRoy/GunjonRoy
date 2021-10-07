@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/logo-name-type.png" width="600" height="200">
+  <img src="https://gist.githubusercontent.com/fredgrott/94263933a24c22e35dc3f5245dbe10b2/raw/1aa21134fabd4575787d2f1fdc493172f536ba99/waves.svg" width="600" height="200">
 </p>	
 <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
 
