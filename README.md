@@ -1,12 +1,8 @@
 <p align="center">
   <ul>
     <style>
-body {
-  background-image: url('img_girl.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
+      <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
+
 </style>
     <h1 align="center">Hi 👋, I'm Gunjon Roy</h1>
     <h1 align="center">A young-dumb 🤓 Mobile App developer from Bangladesh </h1>
