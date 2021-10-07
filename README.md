@@ -1,9 +1,6 @@
 <p align="center">
   <ul>
-    <style>
-      <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
-
-</style>
+    <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
     <h1 align="center">Hi 👋, I'm Gunjon Roy</h1>
     <h1 align="center">A young-dumb 🤓 Mobile App developer from Bangladesh </h1>
     <li>👀 I’m interested in Mobile Application Development.</li>
