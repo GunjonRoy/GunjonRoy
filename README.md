@@ -1,7 +1,7 @@
 <p align="center">
   <ul>
-    <h1>Hi 👋, I'm Gunjon Roy</h1>
-    <h1>A young-dumb 🤓 Mobile App developer from Bangladesh </h1>
+    <h1 align="center">Hi 👋, I'm Gunjon Roy</h1>
+    <h1 align="center">A young-dumb 🤓 Mobile App developer from Bangladesh </h1>
     <li>👀 I’m interested in Mobile Application Development.</li>
     <li>🌱 I’m currently Working with Flutter.</li>
     <li>🌱 I’m currently learning more about Dart</li>
