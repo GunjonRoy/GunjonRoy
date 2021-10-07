@@ -1,5 +1,5 @@
 <p align="center">
-  <ul>
+  <ul align="center">
   <li>👀 I’m interested in Mobile Application Development.</li>
   <li>🌱 I’m currently Working with Flutter.</li>
   <li>🌱 I’m currently learning more about Dart</li>
