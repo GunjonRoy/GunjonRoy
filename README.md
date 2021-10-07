@@ -18,12 +18,12 @@ I am startup front-end developer and designer. I am building some flutter apps a
 
 ## I am good at a few things:
 
-/*<img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/tags.svg" width="auto" height="auto">*/
 <ul>
-  <li>👀 I’m interested in Mobile Application Development.</li>
-  <li>🌱 I’m currently Working with Flutter.</li>
-  <li>🌱 I’m currently learning more about Dart</li>
-  <li>💬 Ask me about Dart,Flutter,oop,Android Studio</li>
-  <li>💞️ I’m looking to collaborate on Mobile App(s) developer(Flutter).</li>
+  <li>Dart</li>
+  <li>Java</li>
+  <li>Python</li>
+  <li>javascript</li>
+  <li>C</li>
+  <li>Arduino</li>
 </ul>
 
