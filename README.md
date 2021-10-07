@@ -1,4 +1,9 @@
 <p align="center">
+  <style>
+body {
+  <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
+}
+</style>
   <ul>
     <h1 align="center">Hi 👋, I'm Gunjon Roy</h1>
     <h1 align="center">A young-dumb 🤓 Mobile App developer from Bangladesh </h1>
